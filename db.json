@@ -1,9 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Hello World" },
-    { "id": 2, "title": "Another Post" }
+    { "id": 1, "title": "Hello World", "body": "Real hello world" },
+    { "id": 2, "title": "Another Post", "body": "Real hello world another post" }
   ],
   "comments": [
-    { "id": 1, "postId": 1, "body": "Great post!" }
+    { "id": 1, "postId": 1, "text": "Great post!" },
+    { "id": 2, "postId": 2, "text": "Awesome!" }
   ]
 }
