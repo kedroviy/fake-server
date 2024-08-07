@@ -12,7 +12,7 @@
     }
   ],
   "comments": [
-    { "id": 1, "text": "Great post!" },
-        { "id": 2, "text": "Awesome!" },
+    { "id": 1, "postId": 1, "text": "Great post!" },
+        { "id": 2, "postId": 2, "text": "Awesome!" },
   ]
 }
