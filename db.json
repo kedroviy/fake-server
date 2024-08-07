@@ -4,17 +4,15 @@
       "id": 1,
       "title": "Hello World",
       "body": "Real hello world",
-      "comments": [
-        { "id": 1, "text": "Great post!" }
-      ]
     },
     {
       "id": 2,
       "title": "Another Post",
       "body": "Real hello world another post",
-      "comments": [
-        { "id": 2, "text": "Awesome!" }
-      ]
     }
+  ],
+  "comments": [
+    { "id": 1, "text": "Great post!" },
+        { "id": 2, "text": "Awesome!" },
   ]
 }
